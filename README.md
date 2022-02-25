@@ -14,7 +14,7 @@ cualquier tipo de computadora es apto para usar, pero hay que tener en cuenta la
 Se uso el atributo especial de la version , las culaes son : >>import pandas, import matplotlib, import numpy<<
 Tambien se uso >>pandas._version_,  matplotlib, numpy.
 
---En el ejercicio 1 se  el ENTREZ para descargar  la data de  Pubmed, ademas  para la busqueda se utlizo la funcion imput
+--En el ejercicio 1 se  el ENTREZ para descargar  la data de  Pubmed, ademas  para la busqueda se utlizo la funcion imput.
 las cuales son: from Bio import Entrez, from Bio import SeqIO, from Bio  import GenBank.----
 -- Tambien se mencionaron las siguientes: import csv 
 import re
