@@ -1,0 +1,1114 @@
+LOCUS       LC599966                 553 bp    DNA     linear   BCT 04-AUG-2021
+DEFINITION  Escherichia coli WP2-S18-ESBL-07 E57-Zambia2018 gene for 16S rRNA,
+            partial sequence.
+ACCESSION   LC599966
+VERSION     LC599966.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Kabali,E., Pandey,G.S., Munyeme,M., Muleya,W., Kapila,P.,
+            Mukubesa,A.N., Ndebe,J., Muonga,E.M., Mitoma,S., Muma,J.B.,
+            Mubita,C., Hangombe,B.M., Wiratsudakul,A., Ngan,M.T., Daous,H.E.,
+            Huyen,N.T., Elhanafy,E., Yamazaki,W., Okabayashi,T., Abe,M.,
+            Norimine,J. and Sekiguchi,S.
+  TITLE     Molecular detection and phenotypic antimicrobial resistance
+            patterns of Escherichia coli and closely related isolates from
+            selected wildlife and livestock at a wildlife-livestock interface
+            in Lusaka, Zambia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 553)
+  AUTHORS   Kabali,E., Muleya,W., Sekiguchi,S., Munyeme,M., Pandey,G.S. and
+            Norimine,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2021) Contact:Emmanuel Kabali University of
+            Zambia, Department of Disease Control, School of Veterinary
+            Medicine; Great East Road Campus, Lusaka, Lusaka Province 10101,
+            Zambia
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="WP2-S18-ESBL-07 E57-Zambia2018"
+                     /isolation_source="impala feces"
+                     /host="Aepyceros melampus"
+                     /db_xref="taxon:562"
+                     /country="Zambia"
+                     /collection_date="2018"
+                     /collected_by="University of Zambia, School of Veterinary
+                     Medicine"
+     rRNA            <1..>553
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgggagtaaa gttaatacct ttgctccctg acgttacccg cagaagaagc accggctaac
+       61 tccgtgccag cagccgcggt aatacggagg gtgcaagcgt taatcggaat tactgggcgt
+      121 aaagcgcacg caggcggttt gttaagtcag atgtgaaatc cccgggctca acctgggaac
+      181 tgcatctgat actggcaagc ttgagtctcg tagagggggg tagaattcca ggtgtagcgg
+      241 tgaaatgcgt agagatctgg aggaataccg gtggcgaagg cggccccctg gacgaagact
+      301 gacgctcagg tgcgaaagcg tggggagcaa acaggattag ataccctggt agtccacgcc
+      361 gtaaacgatg tcgacttgga ggttgtgccc ttgaggcgtg gcttccggag ctaacgcgtt
+      421 aagtcgaccg cctggggagt acggccgcaa ggttaaaact caaatgaatt gacgggggcc
+      481 cggacaagcg gttgagcatg tggtttaatt cgatgcaacg cgaagaacct tacctggtct
+      541 tgacatccac aga
+//
+
+LOCUS       LC599970                 553 bp    DNA     linear   BCT 04-AUG-2021
+DEFINITION  Escherichia coli ECPF-16 E63-Zambia2018 gene for 16S rRNA, partial
+            sequence.
+ACCESSION   LC599970
+VERSION     LC599970.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Kabali,E., Pandey,G.S., Munyeme,M., Muleya,W., Kapila,P.,
+            Mukubesa,A.N., Ndebe,J., Muonga,E.M., Mitoma,S., Muma,J.B.,
+            Mubita,C., Hangombe,B.M., Wiratsudakul,A., Ngan,M.T., Daous,H.E.,
+            Huyen,N.T., Elhanafy,E., Yamazaki,W., Okabayashi,T., Abe,M.,
+            Norimine,J. and Sekiguchi,S.
+  TITLE     Molecular detection and phenotypic antimicrobial resistance
+            patterns of Escherichia coli and closely related isolates from
+            selected wildlife and livestock at a wildlife-livestock interface
+            in Lusaka, Zambia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 553)
+  AUTHORS   Kabali,E., Muleya,W., Sekiguchi,S., Munyeme,M., Pandey,G.S. and
+            Norimine,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2021) Contact:Emmanuel Kabali University of
+            Zambia, Department of Disease Control, School of Veterinary
+            Medicine; Great East Road Campus, Lusaka, Lusaka Province 10101,
+            Zambia
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="ECPF-16 E63-Zambia2018"
+                     /isolation_source="impala feces"
+                     /host="Aepyceros melampus"
+                     /db_xref="taxon:562"
+                     /country="Zambia"
+                     /collection_date="2018"
+                     /collected_by="University of Zambia, School of Veterinary
+                     Medicine"
+     rRNA            <1..>553
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgggagtaaa gttaatacct ttgctccctg acgttacccg cagaagaagc accggctaac
+       61 tccgtgccag cagccgcggt aatacggagg gtgcaagcgt taatcggaat tactgggcgt
+      121 aaagcgcacg caggcggttt gttaagtcag atgtgaaatc cccgggctca acctgggaac
+      181 tgcatctgat actggcaagc ttgagtctcg tagagggggg tagaattcca ggtgtagcgg
+      241 tgaaatgcgt agagatctgg aggaataccg gtggcgaagg cggccccctg gacgaagact
+      301 gacgctcagg tgcgaaagcg tggggagcaa acaggattag ataccctggt agtccacgcc
+      361 gtaaacgatg tcgacttgga ggttgtgccc ttgaggcgtg gcttccggag ctaacgcgtt
+      421 aagtcgaccg cctggggagt acggccgcaa ggttaaaact caaatgaatt gacgggggcc
+      481 cgcacaagcg gtggagcatg tggtttaatt cgatgcaacg cgaagaacct tacctggtct
+      541 tgacatccac aga
+//
+
+LOCUS       LC599967                 553 bp    DNA     linear   BCT 04-AUG-2021
+DEFINITION  Escherichia coli DPR 12 E58-Zambia2018 gene for 16S rRNA, partial
+            sequence.
+ACCESSION   LC599967
+VERSION     LC599967.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Kabali,E., Pandey,G.S., Munyeme,M., Muleya,W., Kapila,P.,
+            Mukubesa,A.N., Ndebe,J., Muonga,E.M., Mitoma,S., Muma,J.B.,
+            Mubita,C., Hangombe,B.M., Wiratsudakul,A., Ngan,M.T., Daous,H.E.,
+            Huyen,N.T., Elhanafy,E., Yamazaki,W., Okabayashi,T., Abe,M.,
+            Norimine,J. and Sekiguchi,S.
+  TITLE     Molecular detection and phenotypic antimicrobial resistance
+            patterns of Escherichia coli and closely related isolates from
+            selected wildlife and livestock at a wildlife-livestock interface
+            in Lusaka, Zambia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 553)
+  AUTHORS   Kabali,E., Muleya,W., Sekiguchi,S., Munyeme,M., Pandey,G.S. and
+            Norimine,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2021) Contact:Emmanuel Kabali University of
+            Zambia, Department of Disease Control, School of Veterinary
+            Medicine; Great East Road Campus, Lusaka, Lusaka Province 10101,
+            Zambia
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="DPR 12 E58-Zambia2018"
+                     /isolation_source="buffalo feces"
+                     /host="Bubalus bubalis"
+                     /db_xref="taxon:562"
+                     /country="Zambia"
+                     /collection_date="2018"
+                     /collected_by="University of Zambia, School of Veterinary
+                     Medicine"
+     rRNA            <1..>553
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgggagtaaa gttaatacct ttgctccctg acgttacccg cagaagaagc accggctaac
+       61 tccgtgccag cagccgcggt aatacggagg gtgcaagcgt taatcggaat tactgggcgt
+      121 aaagcgcacg caggcggttt gttaagtcag atgtgaaatc cccgggctca acctgggaac
+      181 tgcatctgat actggcaagc ttgagtctcg tagagggggg tagaattcca ggtgtagcgg
+      241 tgaaatgcgt agagatctgg aggaataccg gtggcgaagg cggccccctg gacgaagact
+      301 gacgctcagg tgcgaaagcg tggggagcaa acaggattag ataccctggt agtccacgcc
+      361 gtaaacgatg tcgacttgga ggttgtgccc ttgaggcgtg gcttccggag ctaacgcgtt
+      421 aagtcgaccg cctggggagt acggccgcaa ggttaaaact caaatgaatt gacgggggcc
+      481 cgcacaagcg gtggagcatg tggtttaatt cgatgcaacg cgaagaacct tacctggtct
+      541 tgacatccac aga
+//
+
+LOCUS       LC599972                 553 bp    DNA     linear   BCT 04-AUG-2021
+DEFINITION  Escherichia coli HUAIAN 141 E65-Zambia2018 gene for 16S rRNA,
+            partial sequence.
+ACCESSION   LC599972
+VERSION     LC599972.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Kabali,E., Pandey,G.S., Munyeme,M., Muleya,W., Kapila,P.,
+            Mukubesa,A.N., Ndebe,J., Muonga,E.M., Mitoma,S., Muma,J.B.,
+            Mubita,C., Hangombe,B.M., Wiratsudakul,A., Ngan,M.T., Daous,H.E.,
+            Huyen,N.T., Elhanafy,E., Yamazaki,W., Okabayashi,T., Abe,M.,
+            Norimine,J. and Sekiguchi,S.
+  TITLE     Molecular detection and phenotypic antimicrobial resistance
+            patterns of Escherichia coli and closely related isolates from
+            selected wildlife and livestock at a wildlife-livestock interface
+            in Lusaka, Zambia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 553)
+  AUTHORS   Kabali,E., Muleya,W., Sekiguchi,S., Munyeme,M., Pandey,G.S. and
+            Norimine,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2021) Contact:Emmanuel Kabali University of
+            Zambia, Department of Disease Control, School of Veterinary
+            Medicine; Great East Road Campus, Lusaka, Lusaka Province 10101,
+            Zambia
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="HUAIAN 141 E65-Zambia2018"
+                     /isolation_source="impala feces"
+                     /host="Aepyceros melampus"
+                     /db_xref="taxon:562"
+                     /country="Zambia"
+                     /collection_date="2018"
+                     /collected_by="University of Zambia, School of Veterinary
+                     Medicine"
+     rRNA            <1..>553
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgggagtaaa gttaatacct ttgctccctg acgttacccg cagaagaagc accggctaac
+       61 tccgtgccag cagccgcggt aatacggagg gtgcaagcgt taatcggaat tactgggcgt
+      121 aaagcgcacg caggcggttt gttaagtcag atgtgaaatc cccgggctca acctgggaac
+      181 tgcatctgat actggcaagc ttgagtctcg tagagggggg tagaattcca ggtgtagcgg
+      241 tgaaatgcgt agagatctgg aggaataccg gtggcgaagg cggccccctg gacgaagact
+      301 gacgctcagg tgcgaaagcg tggggagcaa acaggattag ataccctggt agtccacgcc
+      361 gtaaacgatg tcgacttgga ggttgtgccc ttgaggcgtg gcttccggag ctaacgcgtt
+      421 aagtcgaccg cctggggagt acggccgcaa ggttaaaact caaatgaatt gacgggggcc
+      481 cgcacaagcg gtggagcatg tggtttaatt cgatgcaacg cgaagaacct tacctggtct
+      541 tgacatccac gga
+//
+
+LOCUS       LC599971                 553 bp    DNA     linear   BCT 04-AUG-2021
+DEFINITION  Escherichia coli CCFM 8341 E64-Zambia2018 gene for 16S rRNA,
+            partial sequence.
+ACCESSION   LC599971
+VERSION     LC599971.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Kabali,E., Pandey,G.S., Munyeme,M., Muleya,W., Kapila,P.,
+            Mukubesa,A.N., Ndebe,J., Muonga,E.M., Mitoma,S., Muma,J.B.,
+            Mubita,C., Hangombe,B.M., Wiratsudakul,A., Ngan,M.T., Daous,H.E.,
+            Huyen,N.T., Elhanafy,E., Yamazaki,W., Okabayashi,T., Abe,M.,
+            Norimine,J. and Sekiguchi,S.
+  TITLE     Molecular detection and phenotypic antimicrobial resistance
+            patterns of Escherichia coli and closely related isolates from
+            selected wildlife and livestock at a wildlife-livestock interface
+            in Lusaka, Zambia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 553)
+  AUTHORS   Kabali,E., Muleya,W., Sekiguchi,S., Munyeme,M., Pandey,G.S. and
+            Norimine,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2021) Contact:Emmanuel Kabali University of
+            Zambia, Department of Disease Control, School of Veterinary
+            Medicine; Great East Road Campus, Lusaka, Lusaka Province 10101,
+            Zambia
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="CCFM 8341 E64-Zambia2018"
+                     /isolation_source="impala feces"
+                     /host="Aepyceros melampus"
+                     /db_xref="taxon:562"
+                     /country="Zambia"
+                     /collection_date="2018"
+                     /collected_by="University of Zambia, School of Veterinary
+                     Medicine"
+     rRNA            <1..>553
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgggagtaaa agtaatacct ttgctccctg acgttacccg cagaagaagc accggctaac
+       61 tccgtgccag cagccgcggt aatacggagg gtgcaagcgt taatcggaat tactgggcgt
+      121 aaagcgcacg caggcggttt gttaagtcag atgtgaaatc cccgggctca acctgggaac
+      181 tgcatctgat actggcaagc ttgagtctcg tagagggggg tagaattcca ggtgtagcgg
+      241 tgaaatgcgt agagatctgg aggaataccg gtggcgaagg cggccccctg gacgaagact
+      301 gacgctcagg tgcgaaagcg tggggagcaa acaggattag ataccctggt agtccacgcc
+      361 gtaaacgatg tcgacttgga ggttgtgccc ttgaggcgtg gcttccggag ctaacgcgtt
+      421 aagtcgaccg cctggggagt agggccccaa ggttaaaact aaaacgaatt tgagtgggcg
+      481 cgcacaagcg gtggagcttg tggtttaatt cgatgcaacg cgaagaagct tacctggtct
+      541 tgacatccac aga
+//
+
+LOCUS       LC649234                1066 bp    DNA     linear   BCT 02-SEP-2021
+DEFINITION  Escherichia coli M30 gene for 16S rRNA, partial sequence.
+ACCESSION   LC649234
+VERSION     LC649234.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Abdelaziz,H.H., Eldidamony,G. and Askora,A.
+  TITLE     Evaluating the efficacy of bacteriophages in control of multi drug
+            resistant bacteria recovered from diabetic foot
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1066)
+  AUTHORS   Abdelaziz,H.H., Eldidamony,G. and Askora,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2021) Contact:Hadeer Hussien Abdelaziz Zagazig
+            University, Faculty of science, Botany and Microbiology; Zagazig
+            university, Zagazig 44519, Egypt URL :http://www.zu.edu.eg/#
+FEATURES             Location/Qualifiers
+     source          1..1066
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="M30"
+                     /isolation_source="Diabetic foot ulcers"
+                     /db_xref="taxon:562"
+                     /country="Egypt"
+                     /collection_date="2019-02-12"
+                     /collected_by="Hadeer Hussien Abdelaziz"
+     rRNA            <1..>1066
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ctgcggcrgg ctacrcatgc agtcgtacgg wracagraag yagcttgctk cttygctgac
+       61 gagyggcgga cgggtgagta atgtctggga aactgcctga tggagggsga taactactgg
+      121 aaacggtagc taataccgca tamcgtckca agaccaaaga gggggacctt cgggcctctt
+      181 gccatcggat gtgcccagat gggattagct wgtwggtggg gtaacggctc acctaggcga
+      241 ckatccctag ctggkctgas aggatgacca gccacmctgg aactgagaca cggtccmsac
+      301 tcctacggga ggcagcagkg gggaatattg cwcaatgggc gcamgcctga tgcasccatg
+      361 ccgcgtgtat garsaakgcc ttcgggttgt aaagyacttt cwscggggag gaagggagta
+      421 magttaakac ctttgckcat tgacgttacc cgcagaasaa gcaccggcta actccgtgcc
+      481 rgcagccgcg gkamtacgga gggtgcwwsc gttaatcgsa attactggsc gtagmgcgca
+      541 cgcwkgcggt ttgytamgtc agatgtgwta tccccgagct cwgcctggga actgcmtctg
+      601 atactgrcta gcttgagtct cgyagagrgg ssryasaatt ccrggtgtas cgcygaaatg
+      661 cgtacakatc tggaggrata cymgstggck awsgmrkccy sctggmysca msactgwykc
+      721 tcacgtgmga rwgcgtgtks akcaarsrgg ayykmcatac ccctgcskag twyymcgtcc
+      781 rtatmysats tcgawyttcg gcagstwsts cctsktwrat gcyrygcccy ctcckgaagm
+      841 tamycsmgtt wwgtcagaym kccmtagtgg sagttaccsg mcsgytragc tcarrrcwct
+      901 wamtgsaatc tgacktgrgs cmaccgcrca wgccgtksgc atctawstgc cttaattcsa
+      961 tractacgcc gwagmaccct acgtgatact ggacgtycgm tgcackttac tgagacwgag
+     1021 ctgcgtcctg cgtaaaygtc atgcagcgar cgtcatgact gtarct
+//
+
+LOCUS       LC648289                1403 bp    DNA     linear   BCT 08-SEP-2021
+DEFINITION  Escherichia coli IRQBAS127 gene for 16S rRNA, partial sequence.
+ACCESSION   LC648289
+VERSION     LC648289.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Abdalabbas,M.J. and Abdulwahid,Z.H.
+  TITLE     Molecular comparison among the hemolysis types (hla, hlb, hlg and
+            hld) and their alleles of pathogenic bacteria isolated from human
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1403)
+  AUTHORS   Abdulwahid,Z.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-AUG-2021) Contact:Zeena Hashim Abdulwahid University
+            of Basrah, Biology department; Iraq - Basrah - Al-Qarma, Al-Basrah,
+            Al-Basrah 00964, Iraq
+FEATURES             Location/Qualifiers
+     source          1..1403
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="IRQBAS127"
+                     /isolation_source="stool"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /country="Iraq"
+                     /collection_date="2021-01-17"
+                     /collected_by="Zeena Hashim Abdulwahid"
+     rRNA            <1..>1403
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 acggtaacag gaagcagctt gctgctttgc tgacgagtgg cggacgggtg agtaatgtct
+       61 gggaaactgc ctgatggagg gggataacta ctggaaacgg tagctaatac cgcataacgt
+      121 cgcaagacca aagaggggga ccttagggcc tcttgccatc ggatgtgccc agatgggatt
+      181 agctagtagg tggggtaaag gctcacctag gcgacgatcc ctagctggtc tgagaggatg
+      241 accagccaca ctggaactga gacacggtcc agactcctac gggaggcagc agtggggaat
+      301 attgcacaat gggcgcaagc ctgatgcagc catgccgcgt gtatgaagaa ggccttcggg
+      361 ttgtaaagta ctttcagcgg ggaggaaggg agtaaagtta atacctttgc tcattgacgt
+      421 tacccgcaga agaagcaccg gctaactccg tgccagcagc cgcggtaata cggagggtgc
+      481 aagcgttaat cggaattact gggcgtaaag cgcacgcagg cggtttgtta agtcagatgt
+      541 gaaatccccg ggctcaacct gggaactgca tctgatactg gcaagcttga gtctcgtaga
+      601 ggggggtaga attccaggtg tagcggtgaa atgcgtagag atctggagga ataccggtgg
+      661 cgaaggcggc cccctggacg aagactgacg ctcaggtgcg aaagcgtggg gagcaaacag
+      721 gattagatac cctggtagtc cacgccgtaa acgatgtcga cttggaggtt gtgcccttga
+      781 ggcgtggctt ccggagctaa cgcgttaagt cgaccgcctg gggagtacgg ccgcaaggtt
+      841 aaaactcaaa tgaattgacg ggggcccgca caagcggtgg agcatgtggt ttaattcgat
+      901 gcaacgcgaa gaaccttacc tggtcttgac atccacggaa gttttcagag atgagaatgt
+      961 gccttcggga accgtgagac aggtgctgca tggctgtcgt cagctcgtgt tgtgaaatgt
+     1021 tgggttaagt cccgcaacga gcgcaaccct tatcctttgt tgccagcggt ccggccggga
+     1081 actcaaagga gactgccagt gataaactgg aggaaggtgg ggatgacgtc aagtcatcat
+     1141 ggcccttacg accagggcta cacacgtgct acaatggcgc atacaaagag aagcgacctc
+     1201 gcgagagcaa gcggacctca taaagtgcgt cgtagtccgg attggagtct gcaactcgac
+     1261 tccatgaagt cggaatcgct agtaatcgtg gatcagaatg ccacggtgaa tacgttcccg
+     1321 ggccttgtac acaccgcccg tcacaccatg ggagtgggtt gcaaaagaag taggtagctt
+     1381 aaccttcggg agggcgctta cct
+//
+
+LOCUS       LC654890                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20349 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654890
+VERSION     LC654890.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20349"
+                     /culture_collection="JCM:20349"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agaagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654891                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20350 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654891
+VERSION     LC654891.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20350"
+                     /culture_collection="JCM:20350"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agmagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654892                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20351 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654892
+VERSION     LC654892.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20351"
+                     /culture_collection="JCM:20351"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agmagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654896                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20375 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654896
+VERSION     LC654896.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20375"
+                     /culture_collection="JCM:20375"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agcagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctwgtwggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat garaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654897                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20376 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654897
+VERSION     LC654897.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20376"
+                     /culture_collection="JCM:20376"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agcagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654898                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20377 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654898
+VERSION     LC654898.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20377"
+                     /culture_collection="JCM:20377"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agcagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654899                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20391 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654899
+VERSION     LC654899.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20391"
+                     /culture_collection="JCM:20391"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agcagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC654900                1464 bp    DNA     linear   BCT 21-OCT-2021
+DEFINITION  Escherichia coli JCM 20392 gene for 16S rRNA, partial sequence.
+ACCESSION   LC654900
+VERSION     LC654900.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2021) Contact:Takao Iino RIKEN BioResource
+            Research Center, Japan Collection of Microorganisms; 3-1-1 Koyadai,
+            Tsukuba, Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 20392"
+                     /culture_collection="JCM:20392"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agcagcttgc
+       61 tgcttygctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttgctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacggaagt tttcagagat gagaatgtgc cttcgggaac cgtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       LC666912                1038 bp    DNA     linear   BCT 22-DEC-2021
+DEFINITION  Escherichia coli H7 gene for 16S rRNA, partial sequence.
+ACCESSION   LC666912
+VERSION     LC666912.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Eltahaan,A.S., Eldidamony,G. and Askora,A.
+  TITLE     Study the ability of some bacterial viruses to transfer of shiga
+            toxin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1038)
+  AUTHORS   Eltahaan,A.S., Eldidamony,G. and Askora,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2021) Contact:Amera Saeed Eltahaan Faculty of
+            Science, Zagazig University, Botany and Microbiology; Zagazig,
+            AlSharqia 44519, Egypt URL :http://www.zu.edu.eg/#
+FEATURES             Location/Qualifiers
+     source          1..1038
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /isolate="H7"
+                     /isolation_source="feces"
+                     /db_xref="taxon:562"
+                     /country="Egypt"
+                     /collection_date="2019-10-07"
+                     /collected_by="Amera Saeed Eltahaan"
+     rRNA            <1..>1038
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tacaagtcat taccttcgct catgacgtta ccgcaggagg agctcggcta gttacgtggc
+       61 agccagcgcg ttattacgga agggtgcawa gcgtaatctg gaattactgg gcstaaakcg
+      121 cacgcaggcg ggttggtaaa gtcagatgtg aaatctcccg ggctcaaccc tgggaactgc
+      181 atmtgatayt gggcaagctt gagtctckta gagrgggsgg tagaattacc agstgtagck
+      241 gygaaatgcg tagagatctg gagggartay cgstggcgaa ggcgkccccc tggaygaaga
+      301 ctgackctca ggtgcgaaag cgtggkgagc aaacaggatt agataccctg stagttcack
+      361 ccgtaaayga wgtcgacttg gaggttgtgc ccktgaggyg tggcttccgg agmtaacgcg
+      421 ttaagtcgac ckcctgggga gtwcgsccgc aaggttaaaa ctcwaawgaw ttgacggggg
+      481 cccgcacaag cggtggagca tgtggyttwa ttygatgcaa cgcgaagmac cytacctggt
+      541 ctygacatyc mcrgaacttt ycagagatgg rwwtgtkcct tcgggaacyg tgagrcaggt
+      601 gstgcatggc tgtcgtcmgc tcgtgttstg aaawrktggg ttaartcccg caacgagygc
+      661 aacccttatc ctywgktgcc agcsgtccgg ccgggmactc aaaggagwct gccagtgata
+      721 aactggagga aggtggggat grcgtcaagt catcatggcc cttrcgacca ggkctacmca
+      781 cgtgctacaa tggcgcatac aaagagaagc gacctcgcga gagcaagcgg acctcataaa
+      841 stkcgtcgta gtccggattg gagtytgcaa ctcgactccm tgaagtcgga atcsstwgtw
+      901 atcgtggatc agaatgccwc ggtgaatwcg ttcccgsrcc ttgtmcacac ckcccgtcmc
+      961 atccatgsga ktgkswtgca aaagaacrta ggtagctymw ccttysggas grcgstcacg
+     1021 crcwktkgwt gmkgccwg
+//
+
+LOCUS       LC666913                 741 bp    DNA     linear   BCT 22-DEC-2021
+DEFINITION  Escherichia coli DH7 gene for 16S rRNA, partial sequence.
+ACCESSION   LC666913
+VERSION     LC666913.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Eltahaan,A.S., Eldidamony,G. and Askora,A.
+  TITLE     Study the ability of some bacterial viruses to transfer of shiga
+            toxin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Eltahaan,A.S., Eldidamony,G. and Askora,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2021) Contact:Amera Saeed Eltahaan Faculty of
+            Science, Zagazig University, Botany and Microbiology; Zagazig,
+            AlSharqia 44519, Egypt URL :http://www.zu.edu.eg/#
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /isolate="DH7"
+                     /isolation_source="feces"
+                     /db_xref="taxon:562"
+                     /country="Egypt"
+                     /collection_date="2019-10-07"
+                     /collected_by="Amera Saeed Eltahaan"
+     rRNA            <1..>741
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgtggcgcaa gactacacat gcagtcgtac ggtracagra agmagcttgc tkyttygctg
+       61 acgakyggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg gataactact
+      121 ggaaacggta gctaataccg cataacgtck caagaccaaa gagggggacc ttcgggcctc
+      181 ttgccatcgg atgtgcccag atgggattag ctwgtwggtg gggtaacggc tcaccwaggc
+      241 gackatccct agctggtctg asaggatgac cagccacact ggaactgaga cacggtccag
+      301 actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct gatgcagcca
+      361 tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg aggaagggag
+      421 taaagttaat acctttgctc attgacgttm cccgcagaas aagcmccggc taactccgtg
+      481 ccrgsagccg cggwamtacg gagggtgcwm gcgttaatcg gaattactgg scgtamcscs
+      541 cmcgcwggcg gtttgytaag tcagatgwga aawcrccggg ctcrgcctgg gaactgcatc
+      601 tgatactggc wagcttgakt ctcgyagagg ggggtagaat tccrggtgta scgstgaaat
+      661 gcgtasakat ctggaggaat accggtggyg aasgmryccc ycttggacsm amractgatt
+      721 ctcasgtggc gaaagcgtgt t
+//
+
+LOCUS       LC682613                 579 bp    DNA     linear   BCT 08-FEB-2022
+DEFINITION  Escherichia coli VL8 gene for 16S rRNA, partial sequence.
+ACCESSION   LC682613
+VERSION     LC682613.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Luang-In,V., Albaser,A.A., Nueno-Palop,C., Bennett,M.H., Narbad,A.
+            and Rossiter,J.T.
+  TITLE     Glucosinolate and Desulfo-glucosinolate Metabolism by a Selection
+            of Human Gut Bacteria
+  JOURNAL   Curr Microbiol 73 (3), 442-451 (2016)
+   PUBMED   27301252
+  REMARK    DOI:10.1007/s00284-016-1079-8
+REFERENCE   2
+  AUTHORS   Luang-In,V.
+  TITLE     Characterization of a Recombinant Sulfatase Enzyme from
+            Glucosinolate-Metabolizing Human Gut Bacterium Escherichia coli VL8
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 579)
+  AUTHORS   Luang-In,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2022) Contact:Vijitra Luang-In Mahasarakham
+            University, Biotechnology; Faculty of Technology, Kantharawichai,
+            Maha Sarakham 44150, Thailand
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="VL8"
+                     /isolation_source="human feces"
+                     /db_xref="taxon:562"
+                     /country="United Kingdom"
+                     /collection_date="2012-07-01"
+                     /collected_by="Vijitra Luang-In"
+                     /PCR_primers="fwd_name: 27F, fwd_seq:
+                     agagtttgatcctggctcag, rev_name: 1492R, rev_seq:
+                     ggttaccttgttacgactt"
+     rRNA            <1..>579
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgctggcggc aggctaccac atgcaagtcg aacggtaaca gaagcagctt gctgctttgc
+       61 tgacgagtgg cggacgggtg agtaatgtct gggaaactgc ctgatggacg gggataacta
+      121 ctggaaacgg tagctaatac cgcataacgt cgcatgacca aagaggggga ccttcgggcc
+      181 tcttgccatc ggatgtgccc agatgggatt agctagtagg tggggtaaag gctcacctag
+      241 gcgacgatcc gtagctggtc tgagaggatg accagccaca ctggaactga gacacggtcc
+      301 agactcctac aggaggcagc agtggggaat attgcacaat gggcgcaagc ctgatgcagc
+      361 cttgccgcgt gtatgaagaa ggccttcggg ttgtaaagta ctttcagcgg ggaggaaggg
+      421 agtaaagtta atacctttgc tcattgacgt cacccgcaga agaagcaccg gctaactccg
+      481 tgcaagcagc cgcggtaata cggagggtgc aagcgttaat cggaattact gggcctaaag
+      541 cgcacgcagg cggtttgtta agtcagttgt gaaatcccc
+//
+
+LOCUS       LC682250                1464 bp    DNA     linear   BCT 15-FEB-2022
+DEFINITION  Escherichia coli JCM 16946 gene for 16S rRNA, partial sequence.
+ACCESSION   LC682250
+VERSION     LC682250.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Iino,T., Iida,T. and Okuma,M.
+  TITLE     16S rRNA gene sequence of bacterial strains maintained in JCM
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Iino,T., Iida,T. and Ohkuma,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2022) Contact:Takao Iino RIKEN BioResource
+            Center, Japan Collection of Microorganisms; 3-1-1 Koyada, Tsukuba,
+            Ibaraki 305-0074, Japan URL :https://jcm.brc.riken.jp/en/
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="JCM 16946"
+                     /culture_collection="JCM:16946"
+                     /db_xref="taxon:562"
+     rRNA            <1..>1464
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtaacagga agmagcttgc
+       61 ttctttgctg acgagtggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg
+      121 gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gagggggacc
+      181 ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggtg gggtaacggc
+      241 tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga
+      301 cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct
+      361 gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg
+      421 aggaagggag taaagttaat acctttrctc attgacgtta cccgcagaag aagcaccggc
+      481 taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg
+      541 gcgtaaagcg cacgcaggcg gtttgttaag tcagatgtga aatccccggg ctcaacctgg
+      601 gaactgcatc tgatactggc aagcttgagt ctcgtagagg ggggtagaat tccaggtgta
+      661 gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa
+      721 gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca
+      781 cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg
+      841 cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg
+      901 ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg
+      961 gtcttgacat ccacrgaast ttycagagat grawwkgtgc cttcgggaac ygtgagacag
+     1021 gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc
+     1081 gcaaccctta tcctttgttg ccagcggtcc ggccgggaac tcaaaggaga ctgccagtga
+     1141 taaactggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgac cagggctaca
+     1201 cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata
+     1261 aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag
+     1321 taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc
+     1381 acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc
+     1441 actttgtgat tcatgactgg ggtg
+//
+
+LOCUS       X80721                  1448 bp    DNA     linear   BCT 29-MAR-1996
+DEFINITION  E.coli rrnA gene.
+ACCESSION   X80721
+VERSION     X80721.1
+KEYWORDS    16S ribosomal RNA; 16S rRNA gene; 16S small subunit ribosomal RNA.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1
+  AUTHORS   Cilia,V., Lafay,B. and Christen,R.
+  TITLE     Sequence heterogeneities among 16S ribosomal RNA sequences, and
+            their effect on phylogenetic analyses at the species level
+  JOURNAL   Mol. Biol. Evol. 13 (3), 451-461 (1996)
+   PUBMED   8742634
+REFERENCE   2  (bases 1 to 1448)
+  AUTHORS   Lafay,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUL-1994) B. Lafay, CNRS & Universite Paris 6,
+            Station Zoologique, Observatoire Oceanologique, Villefranche Sur
+            Mer, 06230, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..1448
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="PK3"
+                     /db_xref="taxon:562"
+     gene            1..1448
+                     /gene="rrnA"
+     rRNA            1..1448
+                     /gene="rrnA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gtttgatcat ggctcagatt gaacgctggc ggcaggccta acacatgcaa gtcgaacggt
+       61 aacaggaaga agcttgcttc tttgctgacg agtggcggac gggtgagtaa tgtctgggaa
+      121 actgcctgat ggagggggat aactactgga aacggtagct aataccgcat aacgtcgcaa
+      181 gaccaaagag ggggaccttc gggcctcttg ccatcggatg tgcccagatg ggattagcta
+      241 gtaggtgggg taacggctca cctaggcgac gatccctagc tggtctgaga ggatgaccag
+      301 ccacactgga actgagacac ggtccagact cctacgggag gcagcagtgg ggaatattgc
+      361 acaatgggcg caagcctgat gcagccatgc cgcgtgtatg aagaaggcct tcgggttgta
+      421 aagtactttc agcggggagg aagggagtaa agttaatacc tttgctcatt gacgttaccc
+      481 gcagaagaag caccggctaa ctccgtgcca gcagccgcgg taatacggag ggtgcaagcg
+      541 ttaatcggaa ttactgggcg taaagcgcac gcaggcggtt tgttaagtca gatgtgaaat
+      601 ccccgggctc aacctgggaa ctgcatctga tactggcaag cttgagtctc gtagaggggg
+      661 gtagaattcc aggtgtagcg gtgaaatgcg tagagatctg gaggaatacc ggtggcgaag
+      721 gcggccccct ggacgaagac tgacgctcag gtgcgaaagc gtggggagca aacaggatta
+      781 gataccctgg tagtccacgc cgtaaacgat gtcgacttgg aggttgtgcc cttgaggcgt
+      841 ggcttccgga nntaacgcgt taagtcgacc gcctggggag tacggccgca aggttaaaac
+      901 tcaaatgaat tgacgggggc cgcacaagcg gtggagcatg tggtttaatt cgatgcaacg
+      961 cgaagaacct tacctggtct tgacatccac ggaagttttc agagatgaga atgtgccttc
+     1021 gggaaccgtg agacaggtgc tgcatggctg tcgtcagctc gtgttgtgaa atgttgggtt
+     1081 aagtcccgca acgagcgcaa cccttatcct ttgttgccag cggtccggcc gggaactcaa
+     1141 aggagactgc cagtgataaa ctggaggaag gtggggatga cgtcaagtca tcatggccct
+     1201 tacgaccagg gctacacacg tgctacaatg gcgcatacaa agagaagcga cctcgcgaga
+     1261 gcaagcggac ctcataaagt gcgtcgtagt ccggattgga gtctgcaact cgactccatg
+     1321 aagtcggaat cgctagtaat cgtggatcag aatgccacgg tgaatacgtt cccgggcctt
+     1381 gtacacaccg cccgtcacac catgggagtg ggttgcaaaa gaagtaggta gcttaacttc
+     1441 gggagggc
+//
+
